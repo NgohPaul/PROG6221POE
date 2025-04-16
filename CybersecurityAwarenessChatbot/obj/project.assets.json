@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\CybersecurityAwarenessChatbotPOE\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
       "projectName": "CybersecurityAwarenessChatbot",
-      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\CybersecurityAwarenessChatbotPOE\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\CybersecurityAwarenessChatbotPOE\\CybersecurityAwarenessChatbot\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\CybersecurityAwarenessChatbot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

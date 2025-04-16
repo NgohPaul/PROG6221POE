@@ -18,3 +18,24 @@ C:\Users\lab_services_student\Desktop\CybersecurityAwarenessChatbotPOE\Cybersecu
 C:\Users\lab_services_student\Desktop\CybersecurityAwarenessChatbotPOE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\Resources\[Friendly Women]Hello......line.wav
 C:\Users\lab_services_student\Desktop\CybersecurityAwarenessChatbotPOE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\Users\lab_services_student\Desktop\CybersecurityAwarenessChatbotPOE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\Resources\[Friendly Women]Hello......line.wav
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\CybersecurityAwarenessChatbot.exe
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\CybersecurityAwarenessChatbot.deps.json
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\CybersecurityAwarenessChatbot.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\CybersecurityAwarenessChatbot.dll
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\CybersecurityAwarenessChatbot.pdb
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.sourcelink.json
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\Cybersec.F3C0860F.Up2Date
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.dll
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\refint\CybersecurityAwarenessChatbot.dll
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.pdb
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\CybersecurityAwarenessChatbot.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\PROG6221POE\CybersecurityAwarenessChatbot\obj\Debug\net9.0\ref\CybersecurityAwarenessChatbot.dll
