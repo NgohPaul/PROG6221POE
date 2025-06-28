@@ -1,0 +1,90 @@
+Cybersecurity Awareness Chatbot (WPF)
+
+Overview
+--------
+
+The Cybersecurity Awareness Chatbot is a WPF-based desktop application designed to improve users' cybersecurity knowledge and habits. The chatbot provides intelligent responses using the Gemini API, allows users to manage cybersecurity-related tasks with reminders, take interactive quizzes, and view an activity log of all their actions.
+
+Features
+--------
+
+Chatbot with Gemini AI
+- Ask the bot any cybersecurity-related question.
+- Receives intelligent responses powered by Google's Gemini API.
+
+Task Assistant
+- Add tasks like "Update antivirus software" or "Change password."
+- Each task includes:
+  - Title
+  - Description
+  - Optional reminder date
+- Tasks are saved and displayed instantly in the interface.
+- Tasks can be marked as completed or deleted.
+
+Cybersecurity Quiz
+- Test your cybersecurity knowledge.
+- Questions with multiple-choice answers.
+- Live score is tracked as you progress.
+
+Activity Log
+- Automatically records user interactions.
+- Tracks task creation, reminders, and quiz participation.
+- Displays a list of the 10 most recent actions.
+
+Setup Instructions
+------------------
+
+Requirements:
+- Visual Studio 2022 or later with WPF support
+- Internet connection (for Gemini API responses)
+
+How to Use
+----------
+
+Asking Questions
+1. Type a cybersecurity-related question into the input box.
+2. Click Send.
+3. The bot responds using Gemini.
+
+Adding a Task
+1. Type "add task" or "task" into the bot.
+2. The bot will ask:
+   - Task title → Enter it
+   - Description → Enter it
+   - Reminder? → Say "yes" or "no"
+   - If yes → Enter a date (e.g., 2025-07-01)
+3. The task is saved and displayed in the UI.
+
+Viewing Tasks
+- All created tasks are shown below the chat interface.
+- You can:
+  - Mark a task as complete
+  - Delete a task
+
+Playing the Quiz
+1. Type "start quiz"
+2. Multiple-choice cybersecurity questions will begin.
+3. Click answers to earn points.
+4. Your score is updated live.
+
+Viewing the Activity Log
+1. Type "show activity log"
+2. Displays the latest 10 actions taken (e.g., task added, quiz started)
+3. Auto-hides after 30 seconds
+
+Example Interaction
+-------------------
+
+You: add task  
+Bot: Please enter the task title:  
+You: Enable 2FA  
+Bot: Please enter the task description:  
+You: Enable two-factor authentication on Gmail.  
+Bot: Would you like to set a reminder? (yes or no)  
+You: yes  
+Bot: Please enter the reminder date (e.g. 2025-07-01):  
+You: 2025-07-01  
+Bot: Task 'Enable 2FA' saved with reminder on 2025-07-01.  
+
+GitHub Link:
+Youtube Link:https://youtu.be/6xPcrp1duxk
